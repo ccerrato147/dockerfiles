@@ -25,4 +25,4 @@ RUN cd $HOME && mkdir webapp
 
 # Exposing port, this is the port I use for my app, change it to the one you use in your node app
 # You can expose as many ports as you want
-EXPOSE 8087
+EXPOSE 3000
